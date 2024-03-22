@@ -9,4 +9,4 @@
         navigationText:["",""],
         autoPlay:true
     });
-});
+});  
